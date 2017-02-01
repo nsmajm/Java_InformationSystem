@@ -20,6 +20,7 @@ public class AdminAdd {
     	this.name=Name;
          frame= new JFrame();
          panel = new JPanel(null);
+//this is simple add
         firstNameLabel = new JLabel("First Name");
         lastNameLabel = new JLabel("Last Name");
         AreaLabel = new JLabel(" Area");
